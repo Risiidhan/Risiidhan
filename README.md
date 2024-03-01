@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Risiidhan Punniyamoorthy</h1>
-<h3 align="center">A creative and passionate frontend developer</h3>
+<h3 align="center">A creative and passionate Web Developer</h3>
 
 - 📫 How to reach me **rkishon4@gmail.com**
 
