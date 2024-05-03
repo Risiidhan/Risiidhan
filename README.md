@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Risiidhan Punniyamoorthy</h1>
-<h3 align="center">A creative and passionate Web Developer</h3>
+<h3 align="center">A creative and passionate Software Engineer</h3>
 
 <p align="left">
 Hi Im Risiidhan, as a Software Engineer I have demonstrated a strong ability to adapt quickly and learn independently, ensuring timely project completion and maintaining a steadfast commitment to excellence. My journey began with a role where I served to enhance website responsiveness and cross platform development and now I play a full stack role in the development of comprehensive projects.
