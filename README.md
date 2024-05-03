@@ -24,13 +24,13 @@ Education wise, I hold a Bachelor’s degree in Software Engineering from London
 
 <h3 align="left">🔥   My Stats :</h3>
 
-
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Risiidhan&theme=onedark&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
+<br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=risiidhan&show_icons=true&locale=en&layout=compact" alt="risiidhan" />
 </div>
