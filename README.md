@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Risiidhan Punniyamoorthy</h1>
 <h3 align="center">A creative and passionate Web Developer</h3>
 
+<p align="left">
+Hi Im Risiidhan, as a Software Engineer I have demonstrated a strong ability to adapt quickly and learn independently, ensuring timely project completion and maintaining a steadfast commitment to excellence. My journey began with a role where I served to enhance website responsiveness and cross platform development and now I play a full stack role in the development of comprehensive projects.
+Education wise, I hold a Bachelor’s degree in Software Engineering from London Metropolitan University, where I graduated with First Class Honors. Recognized as the top performer in my graduating batch, I have consistently demonstrated a strong aptitude for academic excellence and a passion for continuous learning.
+</p>
+
 - 📫 How to reach me **rkishon4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
